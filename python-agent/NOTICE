@@ -1,0 +1,5 @@
+This Python implementation is inspired by the Pi Agent Harness architecture.
+Upstream project: https://github.com/badlogic/pi-mono (and later Pi Agent Harness repositories)
+Upstream license: MIT
+
+The code in this directory is an independent Python reimplementation rather than a line-by-line translation.
